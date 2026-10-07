@@ -1,4 +1,4 @@
 package ordenes.documentos;
 
-public class Documento {
+public abstract class Documento {
 }

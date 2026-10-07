@@ -1,4 +1,4 @@
 package ordenes.documentos;
 
-public class Talon {
+public class Talon extends Documento{
 }

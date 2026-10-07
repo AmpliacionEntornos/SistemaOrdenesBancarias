@@ -1,4 +1,4 @@
 package ordenes.documentos;
 
-public class Movimientos {
+public class Movimientos extends Documento{
 }
